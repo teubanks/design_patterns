@@ -2,50 +2,158 @@
 
 Check out the individual patterns folders to get a glimpse and explanation of what they are, how you create them, and why you'd want to.
 
-## Well then.
+## Well Then.
 
 This repo starts out with Ruby. Eventually, I'll add various other languages such as Objective-C, Swift, Javascript, C/C++, and whatever else catches my fancy. If you're checking out this repo and I haven't at least started on some of these, send me a message and tell me to get to work
 
 
-## Where are we
+## The State of Things
 ### Ruby
 - [x] Adapter
-- [ ] builder
-- [ ] business_delegate
-- [ ] chain_of_responsibility
-- [ ] command
-- [ ] composite
-- [ ] decorator
-- [ ] facade
-- [ ] factory
-- [ ] filter
-- [ ] flyweight
-- [ ] front_controller
-- [ ] intercepting
-- [ ] interpreter
-- [ ] iterator
-- [ ] mediator
-- [ ] model_view_controller
-- [ ] momento
-- [ ] null_object
-- [ ] observer
-- [ ] prototype
-- [ ] proxy
-- [ ] singleton
-- [ ] state
-- [ ] strategy
-- [ ] template_method
-- [ ] transfer_object
-- [ ] visitor
+- [ ] Builder
+- [ ] Business Delegate
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory
+- [ ] Filter
+- [ ] Flyweight
+- [ ] Front Controller
+- [ ] Intercepting
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Model View Controller
+- [ ] Momento
+- [ ] Null Object
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Transfer Object
+- [ ] Visitor
 
 ### C/C++
-Haven't started anything yet
+- [ ] Adapter
+- [ ] Builder
+- [ ] Business Delegate
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory
+- [ ] Filter
+- [ ] Flyweight
+- [ ] Front Controller
+- [ ] Intercepting
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Model View Controller
+- [ ] Momento
+- [ ] Null Object
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Transfer Object
+- [ ] Visitor
 
 ### Objective-C
-Haven't started anything yet
+- [ ] Adapter
+- [ ] Builder
+- [ ] Business Delegate
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory
+- [ ] Filter
+- [ ] Flyweight
+- [ ] Front Controller
+- [ ] Intercepting
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Model View Controller
+- [ ] Momento
+- [ ] Null Object
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Transfer Object
+- [ ] Visitor
 
 ### Swift
-Haven't started anything yet
+- [ ] Adapter
+- [ ] Builder
+- [ ] Business Delegate
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory
+- [ ] Filter
+- [ ] Flyweight
+- [ ] Front Controller
+- [ ] Intercepting
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Model View Controller
+- [ ] Momento
+- [ ] Null Object
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Transfer Object
+- [ ] Visitor
 
 ### Javascript
-Haven't started anything yet
+- [ ] Adapter
+- [ ] Builder
+- [ ] Business Delegate
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory
+- [ ] Filter
+- [ ] Flyweight
+- [ ] Front Controller
+- [ ] Intercepting
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Model View Controller
+- [ ] Momento
+- [ ] Null Object
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Transfer Object
+- [ ] Visitor
