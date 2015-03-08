@@ -9,7 +9,34 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 
 ## Where are we
 ### Ruby
-Haven't started anything yet
+[x] Adapter
+[] builder
+[] business_delegate
+[] chain_of_responsibility
+[] command
+[] composite
+[] decorator
+[] facade
+[] factory
+[] filter
+[] flyweight
+[] front_controller
+[] intercepting
+[] interpreter
+[] iterator
+[] mediator
+[] model_view_controller
+[] momento
+[] null_object
+[] observer
+[] prototype
+[] proxy
+[] singleton
+[] state
+[] strategy
+[] template_method
+[] transfer_object
+[] visitor
 
 ### C/C++
 Haven't started anything yet
