@@ -1,5 +1,4 @@
 # Adapter Pattern
-## Description
 The adapter pattern is useful when you have two different classes or libraries that you'd like merged into one unified interface. A good example of this would be creating an interface to play different types of media. Let's say you have 3 classes; each one plays a specific type of media, MP3, MOV, and OGG
 
 ## Example
