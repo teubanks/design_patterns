@@ -9,6 +9,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 
 ## The State of Things
 ### Ruby
+- [ ] Active Record
 - [x] Adapter
 - [ ] Builder
 - [ ] Business Delegate
@@ -39,6 +40,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 - [ ] Visitor
 
 ### C/C++
+- [ ] Active Record
 - [ ] Adapter
 - [ ] Builder
 - [ ] Business Delegate
@@ -69,6 +71,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 - [ ] Visitor
 
 ### Objective-C
+- [ ] Active Record
 - [ ] Adapter
 - [ ] Builder
 - [ ] Business Delegate
@@ -99,6 +102,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 - [ ] Visitor
 
 ### Swift
+- [ ] Active Record
 - [ ] Adapter
 - [ ] Builder
 - [ ] Business Delegate
@@ -129,6 +133,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 - [ ] Visitor
 
 ### Javascript
+- [ ] Active Record
 - [ ] Adapter
 - [ ] Builder
 - [ ] Business Delegate
