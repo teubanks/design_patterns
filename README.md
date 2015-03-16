@@ -11,7 +11,7 @@ This repo starts out with Ruby. Eventually, I'll add various other languages suc
 ### Ruby
 - [ ] Active Record
 - [x] Adapter
-- [ ] Builder
+- [x] Builder
 - [ ] Business Delegate
 - [ ] Chain of Responsibility
 - [ ] Command
