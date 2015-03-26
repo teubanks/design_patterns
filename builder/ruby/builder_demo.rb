@@ -37,7 +37,7 @@ class BuilderDemo
     new_car.set_frame(frame)
     new_car.set_engine(engine)
     new_car.set_body(body)
-    new_car.inspect
+    puts new_car.inspect
   end
 
   def initialize
@@ -58,3 +58,5 @@ class BuilderDemo
     Body.new(body_attributes)
   end
 end
+
+BuilderDemo.build_me_a_car
